@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leila163rus/English_Word/static/css/main.07e0fe6a.css",
+    "main.js": "/Leila163rus/English_Word/static/js/main.d559f25f.js",
+    "static/js/453.e13a669f.chunk.js": "/Leila163rus/English_Word/static/js/453.e13a669f.chunk.js",
+    "index.html": "/Leila163rus/English_Word/index.html",
+    "main.07e0fe6a.css.map": "/Leila163rus/English_Word/static/css/main.07e0fe6a.css.map",
+    "main.d559f25f.js.map": "/Leila163rus/English_Word/static/js/main.d559f25f.js.map",
+    "453.e13a669f.chunk.js.map": "/Leila163rus/English_Word/static/js/453.e13a669f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e0fe6a.css",
+    "static/js/main.d559f25f.js"
+  ]
+}
