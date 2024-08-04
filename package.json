@@ -2,7 +2,7 @@
   "name": "english_word",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Leila163rus/English_Word",
+  "homepage": "https://leila163rus.github.io/English_Word/",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.11.5",

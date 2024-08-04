@@ -10,6 +10,7 @@ import { sliceArray } from './components/script/sliceArray'
 import { compareIndex } from './components/script/compareIndex'
 import { changeLevel } from './components/script/changeLevel'
 import { levels } from './components/script/dataLevels'
+import { setZoom } from './components/script/setZoom'
 import DialogEndLevel from './components/Dialog/DialogEndLevel'
 
 function App() {
@@ -18,6 +19,8 @@ function App() {
   const[unCorrectEnIndex, setUnCorrectEnIndex] = useState()
   const[unCorrectRusIndex, setUnCorrectRusIndex] = useState()
   const[level, setLevel] = useState(levels)
+
+  setZoom()
 
   const handleWord = (newWord) => {
     setWord([...word, newWord])
