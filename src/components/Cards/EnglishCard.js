@@ -30,7 +30,7 @@ function EnglishCard({currentWordArray, correctIndex, unCorrectEnIndex, level, o
         {randomEnglishWord.map(el => {return(
         <Button sx={unCurrentEnWord?.includes(el) && 
                    !currentEnWord?.includes(el)?
-                    useStyles.buttonRed : useStyles.button}
+                    useStyles.buttonRed : useStyles.button} 
         variant='outlined' 
         key={uuidv4()}
         value={el}
