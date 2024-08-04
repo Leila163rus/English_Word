@@ -20,8 +20,6 @@ function EnglishCard({currentWordArray, correctIndex, unCorrectEnIndex, level, o
     }
   }
 
-  console.log(unCurrentEnWord)
-
   useEffect(() => {
     changeRandomEnglishWord(level, englishWord, setRandomEnglishWord, shuffleArray)
   },[level])
