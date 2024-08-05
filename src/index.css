@@ -1,14 +1,25 @@
 body {
-  background-color: cadetblue;
+  background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), 
+  url('../src/components/pictures/Library.png') no-repeat center center fixed;
+  background-size: cover;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Comic Sans MS', 'Comic Sans', cursive,
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+  font-family: 'Comic Sans MS';
+  src: local('Comic Sans MS Bold'), local('Comic-Sans-MS-Bold'),
+      url('../src/components/fonts/ComicSansMS-Bold.woff2') format('woff2'),
+      url('../src/components/fonts/ComicSansMS-Bold.woff') format('woff'),
+      url('../src/components/fonts/ComicSansMS-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Roboto', 'Oxygen', 'Ubuntu', cursive;
 }
