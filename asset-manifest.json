@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/English_Word/static/css/main.29515f84.css",
-    "main.js": "/English_Word/static/js/main.60432e96.js",
+    "main.css": "/English_Word/static/css/main.de78a4d4.css",
+    "main.js": "/English_Word/static/js/main.855aed1d.js",
     "static/js/453.e13a669f.chunk.js": "/English_Word/static/js/453.e13a669f.chunk.js",
+    "static/media/Library.png": "/English_Word/static/media/Library.79a719ec4de635a92a9f.png",
     "static/media/ComicSansMS-Bold.ttf": "/English_Word/static/media/ComicSansMS-Bold.8fd9b89a0c5b51a3ac01.ttf",
     "static/media/ComicSansMS-Bold.woff": "/English_Word/static/media/ComicSansMS-Bold.22dc35833886c154e7f8.woff",
     "static/media/ComicSansMS-Bold.woff2": "/English_Word/static/media/ComicSansMS-Bold.626de1343022ced9b954.woff2",
     "index.html": "/English_Word/index.html",
-    "main.29515f84.css.map": "/English_Word/static/css/main.29515f84.css.map",
-    "main.60432e96.js.map": "/English_Word/static/js/main.60432e96.js.map",
+    "main.de78a4d4.css.map": "/English_Word/static/css/main.de78a4d4.css.map",
+    "main.855aed1d.js.map": "/English_Word/static/js/main.855aed1d.js.map",
     "453.e13a669f.chunk.js.map": "/English_Word/static/js/453.e13a669f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29515f84.css",
-    "static/js/main.60432e96.js"
+    "static/css/main.de78a4d4.css",
+    "static/js/main.855aed1d.js"
   ]
 }
